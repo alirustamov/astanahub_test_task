@@ -1,0 +1,14 @@
+{
+  "name": "astanahub_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alirustamov/astanahub_task",
+  "author": "Ali Rustamov",
+  "license": "MIT",
+  "scripts": {
+    "mocks" : "mocks-server"
+  },
+  "devDependencies": {
+    "@mocks-server/main": "^4.1.0"
+  }
+}
